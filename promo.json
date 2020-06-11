@@ -85,11 +85,11 @@
     },
     "qualitas":{
         "descuento": "20% de descuento",
-        "intereses": " 12 Meses Sin Intereses",
-        "adicional": "+10% adicional ",
-        "msi" : " 12 MSI",
+        "intereses": "12 Meses Sin Intereses",
+        "adicional": "+ 10% adicional ",
+        "msi" : "12 MSI",
         "meses": "12 Meses",
-        "mes": " 12"
+        "mes": "12"
     },
     "sura":{
         "descuento": "15% de descuento",
