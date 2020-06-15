@@ -49,7 +49,7 @@
         "mes": "6 y 12"
     },
     "inbursa":{
-        "descuento": "10% de descuento",
+        "descuento": " Hasta 20% de descuento",
         "intereses": " 3, 6, 9 y 12 Meses Sin Intereses",
         "msi" : " 3, 6, 9 y 12 MSI",
         "meses": "3, 6, 9 y 12 Meses",
@@ -77,7 +77,7 @@
         "mes": " 6 y 12"
     },
     "motos":{
-        "descuento": "Increíbles descuentos",
+        "descuento": " Hasta 10% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -92,7 +92,7 @@
         "mes": "12"
     },
     "sura":{
-        "descuento": "15% de descuento",
+        "descuento": " Hasta 15% de descuento",
         "intereses": " 3 y 6 Meses Sin Intereses",
         "msi" : " 3 y 6 MSI",
         "meses": "3 y 6 Meses",
@@ -106,7 +106,7 @@
         "mes": " 3, 6 y 12"
     },
     "uber":{
-        "descuento": "Increíbles descuentos",
+        "descuento": " Hasta 15% de descuento",
         "intereses": "6 y 12 Meses Sin Intereses",
         "msi" : "6 y 12 MSI",
         "meses":"6 y 12 Meses",
