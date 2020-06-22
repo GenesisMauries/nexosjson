@@ -49,7 +49,7 @@
         "mes": "6 y 12"
     },
     "inbursa":{
-        "descuento": " Hasta 20% de descuento",
+        "descuento": " Hasta 10% de descuento",
         "intereses": " 3, 6, 9 y 12 Meses Sin Intereses",
         "msi" : " 3, 6, 9 y 12 MSI",
         "meses": "3, 6, 9 y 12 Meses",
@@ -77,7 +77,7 @@
         "mes": " 6 y 12"
     },
     "motos":{
-        "descuento": " Hasta 10% de descuento",
+        "descuento": "Increíbles descuentos",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -106,7 +106,7 @@
         "mes": " 3, 6 y 12"
     },
     "uber":{
-        "descuento": " Hasta 15% de descuento",
+        "descuento": " Increíbles descuento",
         "intereses": "6 y 12 Meses Sin Intereses",
         "msi" : "6 y 12 MSI",
         "meses":"6 y 12 Meses",
@@ -119,5 +119,5 @@
         "meses":"6 Meses",
         "mes": "6"
     },
-    "img":"https://raw.githubusercontent.com/GenesisMauries/nexosjson/master/happy.svg"
+    "img":"https://raw.githubusercontent.com/GenesisMauries/nexosjson/master/pixel.svg"
 }
