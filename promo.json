@@ -56,7 +56,7 @@
         "mes": " 3, 6, 9 y 12"
     },
     "latino":{
-        "descuento": "40% de descuento",
+        "descuento": "Increíbles precios",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -77,7 +77,7 @@
         "mes": " 6 y 12"
     },
     "motos":{
-        "descuento": "10% de descuento",
+        "descuento": "Increíbles precios",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -113,7 +113,7 @@
         "mes": "6 y 12"
     },
     "zurich":{
-        "descuento": "7.5% de descuento",
+        "descuento": "Increíbles descuentos",
         "intereses": "6 Meses Sin Intereses",
         "msi" : "6 MSI",
         "meses":"6 Meses",
