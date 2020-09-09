@@ -7,11 +7,11 @@
         "mes": "6 y 12"
     },
    "beat": {
-        "descuento": "Increíbles precios ",
-        "intereses": " 3 y 6 Meses Sin Intereses",
-        "msi" : " 3 y 6 MSI",
-        "meses": " 3 y 6 Meses",
-        "mes": "3 y 6"
+        "descuento": "Hasta 15% de descuento",
+        "intereses": " 6 y 12 Meses Sin Intereses",
+        "msi" : " 6 y 12 MSI",
+        "meses": " 6 y 12 Meses",
+        "mes": "6 y 12"
     },
     "bxmas": {
         "descuento": "20% de descuento",
@@ -21,25 +21,25 @@
         "mes": "6"
     },
     "cabify": {
-        "descuento": "Increíbles precios",
-        "intereses": " 3 y 6 Meses Sin Intereses",
-        "msi" : " 3 y 6 MSI",
-        "meses": " 3 y 6 Meses",
-        "mes": "3 y 6"
-    },
-    "didi": {
-        "descuento": "Increíbles precios ",
-        "intereses": " 3 y 6 Meses Sin Intereses",
-        "msi" : " 3 y 6 MSI",
-        "meses": " 3 y 6 Meses",
-        "mes": "3 y 6"
-    },
-    "aguila": {
-        "descuento": "Increíbles descuentos",
+        "descuento": "Hasta 15% de descuento",
         "intereses": " 6 y 12 Meses Sin Intereses",
-        "msi" : "6 y 12 MSI",
+        "msi" : " 6 y 12 MSI",
         "meses": " 6 y 12 Meses",
         "mes": "6 y 12"
+    },
+    "didi": {
+        "descuento": "Hasta 15% de descuento",
+        "intereses": " 6 y 12 Meses Sin Intereses",
+        "msi" : " 6 y 12 MSI",
+        "meses": " 6 y 12 Meses",
+        "mes": "6 y 12"
+    },
+    "aguila": {
+        "descuento": "25% de descuento",
+        "intereses": " 3, 6 y 12 Meses Sin Intereses",
+        "msi" : "3, 6 y 12 MSI",
+        "meses": " 3, 6 y 12 Meses",
+        "mes": "3, 6 y 12"
     },
     "hdi": {
         "descuento": "25% de descuento ",
@@ -49,14 +49,14 @@
         "mes": "6 y 12"
     },
     "inbursa":{
-        "descuento": " Hasta 10% de descuento",
+        "descuento": " Hasta 20% de descuento",
         "intereses": " 3, 6, 9 y 12 Meses Sin Intereses",
         "msi" : " 3, 6, 9 y 12 MSI",
         "meses": "3, 6, 9 y 12 Meses",
         "mes": " 3, 6, 9 y 12"
     },
     "latino":{
-        "descuento": "Increíbles precios",
+        "descuento": "40% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -64,10 +64,10 @@
     },
     "mapfre":{
         "descuento": "Increíbles descuentos",
-        "intereses": "6 y 12 Meses Sin Intereses",
-        "msi" : "6 y 12 MSI",
-        "meses": "6 y 12 Meses",
-        "mes": " 6 y 12"
+        "intereses": "3, 6 y 12 Meses Sin Intereses",
+        "msi" : "3, 6 y 12 MSI",
+        "meses": "3, 6 y 12 Meses",
+        "mes": " 3, 6 y 12"
     },
     "migo":{
         "descuento": "40% de descuento ",
@@ -77,7 +77,7 @@
         "mes": " 6 y 12"
     },
     "motos":{
-        "descuento": "Increíbles precios",
+        "descuento": "10% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -106,19 +106,19 @@
         "mes": " 3, 6 y 12"
     },
     "uber":{
-        "descuento": "10% de descuento",
+        "descuento": "Hasta 15% de descuento",
         "intereses": "6 y 12 Meses Sin Intereses",
         "msi" : "6 y 12 MSI",
         "meses":"6 y 12 Meses",
         "mes": "6 y 12"
     },
     "zurich":{
-        "descuento": "Increíbles descuentos",
-        "intereses": "6 Meses Sin Intereses",
-        "msi" : "6 MSI",
-        "meses":"6 Meses",
-        "mes": "6"
+        "descuento": "7.5% de descuento",
+        "intereses": "3, 6 y 12 Meses Sin Intereses",
+        "msi" : "3, 6 y 12 MSI",
+        "meses":"3, 6 y 12 Meses",
+        "mes": "3, 6 y 12"
     },
-    "img":"https://raw.githubusercontent.com/GenesisMauries/nexosjson/master/pixel.svg",
-    "size": "imgPixel"
+    "img":"https://raw.githubusercontent.com/GenesisMauries/nexosjson/master/patrios.svg",
+    "size": "imgHot"
 }
