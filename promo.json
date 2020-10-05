@@ -15,10 +15,10 @@
     },
     "bxmas": {
         "descuento": "20% de descuento",
-        "intereses": " 6 Meses Sin Intereses",
-        "msi" : " 6 MSI",
-        "meses": " 6 Meses",
-        "mes": "6"
+        "intereses": "",
+        "msi" : "",
+        "meses": "",
+        "mes": ""
     },
     "cabify": {
         "descuento": "10% de descuento",
@@ -36,13 +36,13 @@
     },
     "aguila": {
         "descuento": "Increíbles descuentos",
-        "intereses": " 6 y 12 Meses Sin Intereses",
-        "msi" : "6 y 12 MSI",
-        "meses": " 6 y 12 Meses",
-        "mes": "6 y 12"
+        "intereses": " 12 Meses Sin Intereses",
+        "msi" : "12 MSI",
+        "meses": " 12 Meses",
+        "mes": "12"
     },
     "hdi": {
-        "descuento": "25% de descuento ",
+        "descuento": "20% de descuento ",
         "intereses": " 6 y 12 Meses Sin Intereses",
         "msi" : " 6 y 12 MSI",
         "meses": " 6 y 12 Meses",
@@ -86,7 +86,7 @@
     "qualitas":{
         "descuento": "20% de descuento",
         "intereses": "12 Meses Sin Intereses",
-        "adicional": "+ 10% adicional ",
+        "adicional": "",
         "msi" : "12 MSI",
         "meses": "12 Meses",
         "mes": "12"
@@ -113,7 +113,7 @@
         "mes": "6 y 12"
     },
     "zurich":{
-        "descuento": "Increíbles precios",
+        "descuento": "7% de descuento",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses":"3, 6 y 12 Meses",
