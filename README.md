@@ -16,3 +16,4 @@
 - Taxis
 - Uber
 - Zurich
+- https://raw.githubusercontent.com/GenesisMauries/nexosjson/master/pixel.svg
