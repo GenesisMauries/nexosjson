@@ -35,11 +35,11 @@
         "mes": "6 y 12"
     },
     "aguila": {
-        "descuento": "Increíbles descuentos",
-        "intereses": "6 y 12 Meses Sin Intereses",
-        "msi" : "6 y 12 MSI",
-        "meses": "6 y 12 Meses",
-        "mes": "6 y 12"
+        "descuento": "50% de descuento",
+        "intereses": "12 Meses Sin Intereses",
+        "msi" : "12 MSI",
+        "meses": "12 Meses",
+        "mes": "12"
     },
     "hdi": {
         "descuento": "20% de descuento",
@@ -49,25 +49,25 @@
         "mes": "6 y 12"
     },
     "inbursa":{
-        "descuento": " Hasta 10% de descuento",
+        "descuento": " Hasta 20% de descuento",
         "intereses": " 3, 6, 9 y 12 Meses Sin Intereses",
         "msi" : " 3, 6, 9 y 12 MSI",
         "meses": "3, 6, 9 y 12 Meses",
         "mes": " 3, 6, 9 y 12"
     },
     "latino":{
-        "descuento": "Increíbles precios",
-        "intereses": " 3, 6 y 12 Meses Sin Intereses",
-        "msi" : " 3, 6 y 12 MSI",
-        "meses": "3, 6 y 12 Meses",
-        "mes": " 3, 6 y 12"
+        "descuento": "50% de descuento",
+        "intereses": " 12 Meses Sin Intereses",
+        "msi" : " 12 MSI",
+        "meses": "12 Meses",
+        "mes": " 12"
     },
     "mapfre":{
-        "descuento": "Increíbles descuentos",
-        "intereses": "6 y 12 Meses Sin Intereses",
-        "msi" : "6 y 12 MSI",
-        "meses": "6 y 12 Meses",
-        "mes": " 6 y 12"
+        "descuento": "20% de descuento",
+        "intereses": "12 Meses Sin Intereses",
+        "msi" : "12 MSI",
+        "meses": "12 Meses",
+        "mes": " 12"
     },
     "migo":{
         "descuento": "Increíbles precios",
@@ -84,7 +84,7 @@
         "mes": " 3, 6 y 12"
     },
     "qualitas":{
-        "descuento": "20% de descuento",
+        "descuento": "35% de descuento",
         "intereses": "6 y 12 Meses Sin Intereses",
         "adicional": "",
         "msi" : "6 y 12 MSI",
@@ -119,6 +119,6 @@
         "meses":"3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
-    "img":"https://raw.githubusercontent.com/GenesisMauries/nexosjson/master/pixel.svg",
-    "size": "imgPixel"
+    "img":"https://raw.githubusercontent.com/GenesisMauries/nexosjson/master/monday.svg",
+    "size": "imgHot"
 }
