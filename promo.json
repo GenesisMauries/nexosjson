@@ -63,7 +63,7 @@
         "mes": " 3, 6 y 12"
     },
     "mapfre":{
-        "descuento": "20% de descuento",
+        "descuento": "Increíbles precios",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -84,7 +84,7 @@
         "mes": " 3, 6 y 12"
     },
     "qualitas":{
-        "descuento": "Hasta 30% de descuento",
+        "descuento": "30% de descuento",
         "intereses": "6 y 12 Meses Sin Intereses",
         "adicional": "",
         "msi" : "6 y 12 MSI",
@@ -113,7 +113,7 @@
         "mes": "3, 6 y 12"
     },
     "zurich":{
-        "descuento": "7% de descuento",
+        "descuento": "Increíbles descuentos",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses":"3, 6 y 12 Meses",
