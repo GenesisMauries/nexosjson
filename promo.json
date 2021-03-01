@@ -35,7 +35,7 @@
         "mes": "3, 6 y 12"
     },
     "aguila": {
-        "descuento": "Increíbles precios",
+        "descuento": "35% de descuento",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -56,15 +56,15 @@
         "mes": " 3, 6, 9 y 12"
     },
     "latino":{
-        "descuento": "Increíbles precios",
-        "desc": "Increíbles precios",
+        "descuento": "35% de descuento",
+        "desc": "35",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
         "mes": " 3, 6 y 12"
     },
     "mapfre":{
-        "descuento": "Increíbles precios",
+        "descuento": "27% de descuento",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -78,7 +78,7 @@
         "mes": " 6 y 12"
     },
     "motos":{
-        "descuento": "Increíbles precios",
+        "descuento": "Hasta 20% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -116,7 +116,7 @@
         "mes": "3, 6 y 12"
     },
     "zurich":{
-        "descuento": "Increíbles descuentos",
+        "descuento": "7% de descuento",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses":"3, 6 y 12 Meses",
